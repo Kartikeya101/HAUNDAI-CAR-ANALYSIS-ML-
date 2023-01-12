@@ -9,33 +9,27 @@
 
 ## OBJECTIVES
 
-1) To Find relationship Fiscal Deficits and  Capital Expenditure
-2) To Find top	states with Fiscal  Deficit
-3) To find relationship between Revenue  Exp. and Revenue Deficit
-4) Social Sector Exp. VS Tax Revenue
+1) Fuel efficiency: using ML to optimize a car's fuel consumption by analyzing data from sensors and adjusting the car's performance accordingly.
+2) Explore and visualize the dataset.
+3) Build a linear regression model to predict the prices of haundai cars.
+4) Generate a set of insights and recommendations that will help the business.
 
 
 ## TOOLS
 
-1) Microsoft Excel
-2) Microsoft SQL
+1) python
 
 ## PROCESS
 
 1) First we have to analyse the data set 
-2) rearranging and cleaning of data wiith the help of power query in excel
-3) using sql queries to join different table and finding insides
-4) using pivot table to making visualiation
+2) rearranging and cleaning of data wiith the help of power numpy and pandas
+3) EDA
+4) running ml models
    
 ## CONCLUSION
 
-1) The past data has to be seen to seen to model growing of the country .  One of the major aspects while taking a right investment decision is to  analyze	the      financial statements of any company who came to invest  in India.
+In conclusion, the use of machine learning (ML) in the analysis of Hyundai cars can bring a wide range of benefits. By analyzing data from various sensors and other sources, ML can help to optimize the car's performance, improve its fuel efficiency, enhance its safety features, and even enable autonomous driving. Overall, the application of ML in the analysis of Hyundai cars can make them more efficient, reliable, and convenient to use, while also providing valuable insights that can be used to improve the overall design and production of Hyundai cars.
 
-2) As per	Analyisis	‘ UTTAR PRADESH’ And ‘MAHARASTRA’	are most  revenue generating states for India
-
-3) On the basis of our analysis we conclude that some of states of states  showing positive Fiscal deficit and some of team showing negative  gross fiscal deficit.
-
-  
  ## PROBLEMS FACED
  
  1) Lots of null value to handle
